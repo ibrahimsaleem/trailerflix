@@ -1,4 +1,4 @@
-# Netflix Clone ReactJS
+# TrailerFlix by Ibrahim
 
 ## Demo
 
